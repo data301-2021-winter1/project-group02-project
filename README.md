@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-With this analytics project, we are interested in finding if there is gender equality in relation to the following variables: employment and unemployment rate and the percentile earnings in each of the majors listed in the data set. We as international students agreed to work in this dataset because it is a topic we all can relate with, as we understand the concern of not finding a job after graduation or not earning enough money after all the effort and time we have spent in university. Especifically, we want to consider if men are getting more opportunities to receive a job and, after receiving it, are they having higher salaries than women? Thus, we have smaller interest questions that will help us to answer our overall research question. Furthermore, building a user facing dashboard is viable for our dataset as we have enough sample sets which can help us visualize comparisons that need to be made to answer our research question. So yes, building this type of interface can help us to get more deep conclusions as data is easier to read and understand, even more for the general audience. 
+With this analytics project, we are interested in finding if there is gender equality in relation to the following variables: employment and unemployment rate and the percentile earnings in each of the majors listed in the data set. We as international students agreed to work in this dataset because it is a topic we all can relate with, as we understand the concern of not finding a job after graduation or not earning enough money after all the effort and time we have spent in university. Specifically, we want to consider if men are getting more opportunities to receive a job and, after receiving it, are they having higher salaries than women? Thus, we have smaller interest questions that will help us to answer our overall research question. Furthermore, building a user facing dashboard is viable for our dataset as we have enough sample sets which can help us visualize comparisons that need to be made to answer our research question. So yes, building this type of interface can help us to get more deep conclusions as data is easier to read and understand, even more for the general audience. 
 
 ## Describe your dataset in about 150-200 words
 
@@ -18,7 +18,7 @@ The purpose of this dataset was to provide public interest regarding views on th
 
 ## Team Members
 
-- Person 1: Hi my name is Charvie. I'm a CS major and I'm intrigued by Data Analytics. I love mint chocolate chip ice-cream!
+- Person 1: Hi my name is Charvie. I'm a CS major and I'm intrigued by Data Analytics. 
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
