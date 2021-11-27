@@ -14,7 +14,7 @@ def process_data(path):
     
     df = pd.read_csv(path)
     df = df.dropna()
-    cleanData = df.drop(['Major_code', 'Sample_size', 'College_jobs', 'Non_college_jobs', 'Low_wage_jobs', 'Rank', 'ShareWomen'], axis=1)
+    cleanData = df.drop(['Major_code', 'Sample_size', 'Full_time', 'Part_time', 'Full_time_year_round', 'Rank', 'ShareWomen'], axis=1)
     return cleanData
 
 def group_by_majorCat(df):
