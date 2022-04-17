@@ -20,7 +20,6 @@ The purpose of this dataset was to provide public interest regarding views on th
 
 - Person 1: Hi my name is Charvie. I'm a CS major and I'm intrigued by Data Analytics. 
 - Person 2: Hello, I'm Egor! I'm in CS too and I think a couple of Data Science courses might be really helpful.
-- Person 3: one sentence about you!
 
 ## Images
 
